@@ -122,7 +122,7 @@ document.querySelector(".container").innerHTML = `
 
 <h1>💖 Happy Friendship Day 💖</h1>
 
-<h2 id="friendName">Dear SADIST,</h2>
+<h2 id="friendName">HEY SADIST,</h2>
 
 <p id="letter" style="font-size:22px;line-height:1.8;padding:20px;text-align:left;"></p>
 
