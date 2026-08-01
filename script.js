@@ -122,7 +122,7 @@ document.querySelector(".container").innerHTML = `
 
 <h1>💖 Happy Friendship Day 💖</h1>
 
-<h2 id="friendName">HEY SADIST,</h2>
+<h2 id="friendName">DEAR MAD LADY,</h2>
 
 <p id="letter" style="font-size:22px;line-height:1.8;padding:20px;text-align:left;"></p>
 
@@ -134,16 +134,12 @@ document.querySelector(".container").innerHTML = `
 
 let message = `
 
-You are honestly impossible.
-Every single day you find a new reason to roast me. Sometimes I wonder if making fun of me is your full-time job. 😂
-But somewhere between all the teasing, silly fights, and endless laughter... you became one of the most important people in my life.
-Thank you for staying. Thank you for understanding me even when I don't say much. Thank you for making ordinary college days feel unforgettable.
-Life is going to take us in different directions one day. We'll get busy. We'll meet new people.
-But I hope one thing never changes...
-I hope years from now we still laugh at the same old jokes, still tease each other without mercy, and still know that if one of us needs the others, we'll always be there.
-You both are not just my friends... you're my safe place.
-No matter how much you roast me... I wouldn't trade this friendship for anything. ❤️
-Happy Friendship Day, idiot. 🤍😂
+Maybe I don't always say it...
+But you mean more to me than you know.
+Thank you for choosing to stay, for caring, for understanding me, and for accepting me exactly as I am.
+No matter how much we fight or tease each other...
+You'll always have a special place in my heart.
+Happy Friendship Day! ❤️
 
 `;
 
