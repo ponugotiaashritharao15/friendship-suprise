@@ -138,6 +138,7 @@ Some people come into our lives and quietly become home.
 Thank you for being my safe place, my laughter, my biggest supporter, and my best friend.
 No matter where life takes us, I hope we'll always find our way back to each other.
 Happy Friendship Day! 🌸
+~AASHRI
 `;
 
 typeWriter(message);
