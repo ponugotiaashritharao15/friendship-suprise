@@ -122,7 +122,7 @@ document.querySelector(".container").innerHTML = `
 
 <h1>💖 Happy Friendship Day 💖</h1>
 
-<h2 id="friendName">DEAR BESTFRIEND,</h2>
+<h2 id="friendName">MY DEAR FRIEND,</h2>
 
 <p id="letter" style="font-size:22px;line-height:1.8;padding:20px;text-align:left;"></p>
 
@@ -134,9 +134,11 @@ document.querySelector(".container").innerHTML = `
 
 let message = `
 
-Some people come into our lives and quietly become home.
-Thank you for being my safe place, my laughter, my biggest supporter, and my best friend.
-No matter where life takes us, I hope we'll always find our way back to each other.
+A Small Note for You 💌
+Some friendships are loud. Some are quiet.
+But every true friendship is special.
+I'm really happy that our paths crossed. Thank you for being such a wonderful friend.
+Let's make many more memories together!
 Happy Friendship Day! 🌸
 ~AASHRI
 `;
